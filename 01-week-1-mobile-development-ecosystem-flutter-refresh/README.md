@@ -10,8 +10,8 @@
 ---
 # Practicum
 Preparing for the environment
-![[Pasted image 20260830192124.png]]
-![[Pasted image 20260830195602.png]]
+![][Pasted image 20260830192124.png]
+![[Pasted image 20260830195602.png]
 ![[Pasted image 20260830192853.png|700]]
 
 ## First Fluterr App
