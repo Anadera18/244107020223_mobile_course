@@ -17,7 +17,7 @@ Preparing for the environment
 
 # Target Device
 flutter devices 
-<img width="1471" height="418" alt="image" src="https://github.com/user-attachments/assets/b1eeb733-4fab-459c-8220-de6579e4e3bb" />
+<img width="1453" height="267" alt="image" src="https://github.com/user-attachments/assets/368ff32f-ce45-49ca-87a9-a096583d280a" />
 
 
 ## First Fluterr App
