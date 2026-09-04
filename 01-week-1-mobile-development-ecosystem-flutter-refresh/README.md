@@ -15,8 +15,13 @@ Preparing for the environment
 ![](./screenshot/Pasted%20image%2020260830195602.png)
 ![](./screenshot/Pasted%20image%2020260830192853.png)
 
+# Target Device
+flutter devices 
+<img width="1471" height="418" alt="image" src="https://github.com/user-attachments/assets/b1eeb733-4fab-459c-8220-de6579e4e3bb" />
+
+
 ## First Fluterr App
-Create and running the project
+Create and running the projectflutter devices
 
 ![](./screenshot/Pasted%20image%2020260830200441.png)
 ![](./screenshot/Pasted%20image%2020260830200943.png)
